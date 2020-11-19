@@ -2,7 +2,11 @@
 <img src = "https://img.shields.io/badge/Hey-Visitor%20!-brightgreen"> <img src="https://github.com/tridibsamanta/tridibsamanta/blob/main/wave.gif" width="35px"><br>
 </p>
 
+<p align="center">
+  
 ## ✨ Welcome to my Github profile :handshake:
+</p>
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tridibsamanta&show_icons=true&theme=dracula" alt="tridibsamanta">
 
