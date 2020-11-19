@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  
 ## ✨ Welcome to my Github profile :handshake:
 </p>
 
