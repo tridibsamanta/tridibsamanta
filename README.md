@@ -1,3 +1,5 @@
+<img src = "https://img.shields.io/badge/Hey-Visitor%20!-brightgreen">
+
 ### Hi there 👋
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tridibsamanta&show_icons=true&theme=dracula" alt="tridibsamanta">
