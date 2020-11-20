@@ -6,7 +6,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tridibsamanta&show_icons=true&theme=dracula" alt="tridibsamanta">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tridibsamanta&theme=dracula" alt="tridibsamanta"> <br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tridibsamanta&theme=dracula" alt="tridibsamanta"> <br/><br/>
 
 
 **See you again !** :beers:
