@@ -12,9 +12,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tridibsamanta&theme=dracula" alt="tridibsamanta"><br/><br/><br/><br/><br/>
 
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
+<p align="center">
 **See you again !** :beers:
-
+ </p>
 
 <!--
 **tridibsamanta/tridibsamanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
