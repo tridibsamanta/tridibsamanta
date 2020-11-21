@@ -14,9 +14,9 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<p align="center">
-**See you again !** :beers:
- </p>
+
+#### **See you again !** :beers:
+
 
 <!--
 **tridibsamanta/tridibsamanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
