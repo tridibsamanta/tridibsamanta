@@ -12,7 +12,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tridibsamanta&theme=dracula" alt="tridibsamanta"><br/><br/><br/><br/><br/>
 
-<br/><br/><br/><br/><br/>
+
 **See you again !** :beers:
 
 
