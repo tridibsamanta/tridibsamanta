@@ -17,7 +17,7 @@
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 
-📫 How to reach me: 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tridib-samanta98/)
 
 
 #### **See you again !** :beers:
