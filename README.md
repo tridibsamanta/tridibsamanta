@@ -17,7 +17,7 @@
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 
-📫 How to reach me: .
+📫 How to reach me: 
 
 
 #### **See you again !** :beers:
