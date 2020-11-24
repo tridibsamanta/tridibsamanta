@@ -2,7 +2,7 @@
 <img src = "https://img.shields.io/badge/Hey-Visitor%20!-brightgreen"> <img src="https://github.com/tridibsamanta/tridibsamanta/blob/main/wave.gif" width="35px"><br>
 </p>
 
-...
+..
 
 ## ✨ Welcome to my Github profile :handshake:
 
