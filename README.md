@@ -23,7 +23,7 @@
 [<img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-256.png" width="40">](https://www.linkedin.com/in/tridib-samanta98/) 
 [<img src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-53-256.png" width="40">](https://www.quora.com/profile/Tridib-Samanta-2)
 [<img src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-50-512.png" width="40">](https://github.com/tridibsamanta)
-
+[<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" width="40">](https://github.com/tridibsamanta)
 
 #### **See you again !** :beers:
 
