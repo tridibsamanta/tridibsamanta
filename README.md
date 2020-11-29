@@ -20,10 +20,10 @@
 
 📫 Reach out to me at: <br/>
 
-[<img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-256.png" width="40">](https://www.linkedin.com/in/tridib-samanta98/) [<img src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-53-256.png" width="40">](https://www.quora.com/profile/Tridib-Samanta-2)
+[<img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-256.png" width="40">](https://www.linkedin.com/in/tridib-samanta98/) 
+[<img src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-53-256.png" width="40">](https://www.quora.com/profile/Tridib-Samanta-2)
+[<img src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-50-512.png" width="40">](https://github.com/tridibsamanta)
 
-
-https://drive.google.com/file/d/1umdvSg8Ho4EYvjpahs5jw5pronROSHQ7/view?usp=sharing
 
 #### **See you again !** :beers:
 
