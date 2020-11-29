@@ -18,8 +18,10 @@
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 
-📫 Reach out to me at: [<img src="https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-linkedin-icon-logo-by-vexels.png" width="40">](https://www.linkedin.com/in/tridib-samanta98/)
+📫 Reach out to me at: [<img src="https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-linkedin-icon-logo-by-vexels.png" width="40">](https://www.linkedin.com/in/tridib-samanta98/) [<img src="https://drive.google.com/file/d/1umdvSg8Ho4EYvjpahs5jw5pronROSHQ7/view?usp=sharing" width="40">](https://www.quora.com/profile/Tridib-Samanta-2)
 
+
+https://drive.google.com/file/d/1umdvSg8Ho4EYvjpahs5jw5pronROSHQ7/view?usp=sharing
 
 #### **See you again !** :beers:
 
