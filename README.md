@@ -20,10 +20,12 @@
 
 📫 Reach out to me at: <br/>
 
-[<img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-256.png" width="40">](https://www.linkedin.com/in/tridib-samanta98/) 
-[<img src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-53-256.png" width="40">](https://www.quora.com/profile/Tridib-Samanta-2)
-[<img src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-50-512.png" width="40">](https://github.com/tridibsamanta)
-[<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" width="40">](https://github.com/tridibsamanta)
+[<img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="40">](https://www.linkedin.com/in/tridib-samanta98/) 
+[<img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Quora-256.png" width="40">](https://www.quora.com/profile/Tridib-Samanta-2)
+[<img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" width="40">](https://github.com/tridibsamanta)
+[<img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png" width="40">](https://www.instagram.com/tridib_samanta/)
+[<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-512.png" width="40">](https://twitter.com/tridib_samanta)
+[<img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-512.png" width="40">](https://tridib2003.netlify.app/)
 
 #### **See you again !** :beers:
 
