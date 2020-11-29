@@ -18,7 +18,7 @@
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 
-📫 Reach out to me at: [LinkedIn](https://www.linkedin.com/in/tridib-samanta98/)
+📫 Reach out to me at: [<img src="https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-linkedin-icon-logo-by-vexels.png" width="40">](https://www.linkedin.com/in/tridib-samanta98/)
 
 
 #### **See you again !** :beers:
