@@ -2,8 +2,9 @@
 <img src = "https://img.shields.io/badge/Hey-Visitor%20!-brightgreen"> <img src="https://github.com/tridibsamanta/tridibsamanta/blob/main/wave.gif" width="35px"><br>
 </p>
 
-<p align="center">
+<p align="center"> 
 <img src="https://cdn3.iconfinder.com/data/icons/merry-flat-christmas/639/_9-512.png" width="50px">
+ <img src="https://cdn1.iconfinder.com/data/icons/christmas-yellow/60/030_-_Holly-512.png" width="50px">
 <img src="https://cdn1.iconfinder.com/data/icons/santa-emojis/60/013_-_santa_christmas_emoji_party_excited-512.png" width="50px">
 <img src="https://cdn1.iconfinder.com/data/icons/flat-christmas-icons-1/75/_merry_christmas-512.png" width="50px">
 <img src="https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/006_-_Present-512.png" width="50px">
