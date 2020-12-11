@@ -37,9 +37,9 @@
 [<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-512.png" width="40">](https://twitter.com/tridib_samanta)
 [<img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-512.png" width="40">](https://tridib2003.netlify.app/)
 
-#### **See you again !** :beers:
-
-
+<p align="center">
+See you again ! :beers:
+</p>
 
 <!--
 **tridibsamanta/tridibsamanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
