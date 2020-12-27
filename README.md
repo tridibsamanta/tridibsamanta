@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"> 
-<img src="https://cdn1.iconfinder.com/data/icons/santa-emojis/60/013_-_santa_christmas_emoji_party_excited-512.png" width="50px">
+<img src="https://cdn4.iconfinder.com/data/icons/happy-new-year/4167/Christmas-03-512.png" width="50px">
 <img src="https://cdn1.iconfinder.com/data/icons/flat-christmas-icons-1/75/_merry_christmas-512.png" width="50px">
 </p>
 
