@@ -1,7 +1,7 @@
 <p align="center">
 <img src = "https://img.shields.io/badge/Hey-Visitor%20!-brightgreen"> <img src="https://github.com/tridibsamanta/tridibsamanta/blob/main/wave.gif" width="35px"><br>
 </p>
-.
+
 <p align="center"> 
  <img src="https://cdn3.iconfinder.com/data/icons/new-year-2102/200/new_year-gr-12-512.png" width="80px">
  <img src="https://cdn3.iconfinder.com/data/icons/new-year-2102/200/new_year-gr-05-512.png" width="80px">
