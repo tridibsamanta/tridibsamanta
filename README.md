@@ -32,7 +32,9 @@
 [<img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" width="40">](https://github.com/tridibsamanta)
 [<img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png" width="40">](https://www.instagram.com/tridib_samanta/)
 [<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-512.png" width="40">](https://twitter.com/tridib_samanta)
-[<img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-512.png" width="40">](https://tridib2003.netlify.app/)
+[<img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-512.png" width="40">](https://tridib2003.github.io/)
+[<img src="https://cdn3.iconfinder.com/data/icons/social-media-2285/1151/Medium_logo_-_black-256.png" width="40">](https://tridib2003.medium.com/)
+
 
 <p align="center">
 See you again ! :beers:
