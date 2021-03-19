@@ -11,7 +11,7 @@
 </p> -->
 
 
-## ✨ Welcome to my Github profile  :handshake: 
+## ✨ Welcome to my Github profile. :handshake: 
 
 <!--
 <p align="center">
@@ -20,7 +20,7 @@
 -->
 
 <p align="center">
- <img src = "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Dog_walking_re_l61p.svg" width="250px"><br/>
+ <img src = "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Dog_walking_re_l61p.svg" width="150px"><br/>
 </p>
 
 <br/>
@@ -28,6 +28,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tridibsamanta&show_icons=true&theme=dracula" alt="tridibsamanta">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tridibsamanta&theme=dracula" alt="tridibsamanta"><br/><br/><br/><br/><br/>
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
