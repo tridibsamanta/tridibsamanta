@@ -1,5 +1,5 @@
 <p align="center">
-<img src = "https://img.shields.io/badge/Hey-Visitor%20!-brightgreen"> <img src="https://github.com/tridibsamanta/tridibsamanta/blob/main/wave.gif" width="35px"><br>
+<img src = "https://img.shields.io/badge/Hey-Visitor%20!-brightgreen"> <img src="https://emojis.slackmojis.com/emojis/images/1471045847/821/fistbump.gif?1471045847" width="35px"><br>
 </p>
 
 <!--
@@ -11,7 +11,7 @@
 </p> -->
 
 
-## ✨ Welcome to my Github profile :handshake: 
+## ✨ Welcome to my Github profile <img src="https://emojis.slackmojis.com/emojis/images/1471045860/875/monkey.gif?1471045860" width="35px">
 
 <!--
 <p align="center">
@@ -19,7 +19,7 @@
  </p>
 -->
 
-<p align="center">
+<p align="right">
  <img src = "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Dog_walking_re_l61p.svg" width="200px"><br/>
 </p>
 
