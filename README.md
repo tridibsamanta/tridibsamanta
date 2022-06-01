@@ -8,6 +8,7 @@
 
 <p align="center"> 
  <img src = "https://img.shields.io/badge/Hey-Visitor%20!-brightgreen"> 
+ <br/> <br/>
  <img src="https://emojis.slackmojis.com/emojis/images/1471045847/821/fistbump.gif?1471045847" width="20px"> 
 </p>
 
