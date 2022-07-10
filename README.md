@@ -92,4 +92,10 @@
  <img src="https://emojis.slackmojis.com/emojis/images/1471045833/765/beer.gif?1471045833" width="20" />
 </h3>
 
+<br/>
+
+<p align="center">
+    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=tridibsamanta" alt="visitor badge"/>
+</p>
+
 <!-- ****************** -->
